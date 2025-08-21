@@ -1,0 +1,29 @@
+{
+  "telegram_bot_token": "8357195529:AAFSESBGB1tb1dmViHGFmv71WJ4pGK0JnDA",
+  "game_settings": {
+    "max_players": 1000,
+    "starting_credits": 1000,
+    "starting_health": 100,
+    "starting_level": 1,
+    "experience_multiplier": 1.5,
+    "combat_cooldown": 300,
+    "item_search_cooldown": 600
+  },
+  "combat": {
+    "damage_multiplier": 1.0,
+    "critical_chance": 0.15,
+    "dodge_chance": 0.10,
+    "healing_rate": 5
+  },
+  "items": {
+    "common_drop_rate": 0.6,
+    "rare_drop_rate": 0.3,
+    "epic_drop_rate": 0.08,
+    "legendary_drop_rate": 0.02
+  },
+  "locations": {
+    "search_radius_meters": 100,
+    "max_items_per_location": 5,
+    "location_refresh_time": 3600
+  }
+}

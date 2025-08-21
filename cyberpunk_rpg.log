@@ -1,0 +1,7 @@
+2025-08-20 21:34:54,703 - __main__ - ERROR - Детали ошибки:
+Traceback (most recent call last):
+  File "e:\Program Files\BotPumpGPT\run_example.py", line 36, in main
+    from main import CyberpunkRPGBot
+  File "e:\Program Files\BotPumpGPT\main.py", line 14, in <module>
+    from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, Location
+ModuleNotFoundError: No module named 'telegram'

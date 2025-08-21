@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+requests
+geopy
+folium
+pillow
+python-dotenv
+asyncio
+aiofiles
+sqlite3
